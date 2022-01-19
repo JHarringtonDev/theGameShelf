@@ -3,7 +3,7 @@ import { GlobalStyle } from './GlobalStyle';
 
 const App = () => (
   <div>
-    Start here! test
+    Start here!
     <GlobalStyle />
   </div>
 );
